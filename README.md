@@ -1,5 +1,5 @@
 # tugas-webprogramming
 - membuat repositori baru
-- membuat file di githu
+- membuat file di github
 - membuat perubahan file
-- membuat commot baru
+- membuat commite baru
