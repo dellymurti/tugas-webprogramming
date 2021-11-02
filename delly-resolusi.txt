@@ -1,0 +1,20 @@
+<html>
+<head>
+        <title>contoh 01</title>
+</head>
+<body>
+<h2>Input Name User</h2>
+<form>
+    <label for="fname">First name:</label><<br>
+    <input type="text" id=fname" name="fname" value="Rizki"><br>
+    <label for="lname">Last Name :</label><br>
+    <input type="text" id=lname name="lname" value="agung"><br>
+</form>
+<h2>Pilih Bahasa Pemrograman</h2>
+<formaction="/action_page.php">
+       <input type="checkbox" name="PHP" value="PHP">
+       <input type="checkbox" name="NodeJS" value="NodeJS">
+       <input type="checkbox" name="Go" value="NGO">
+</form>
+</body>
+</html>
